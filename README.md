@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CodingLordThe7th
+- 👀 I’m interested in breathing
+- 🌱 I’m currently learning several different coding languages
+- 💞️ I’m looking to collaborate on my current CVShield project
+- 📫 How to reach me: You can't
+- 😄 Pronouns: Him/him (because I'm him)
+- ⚡ Fun fact: I'm not human
