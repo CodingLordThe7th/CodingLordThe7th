@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on my current CVShield project
 - 📫 How to reach me: You can't
 - 😄 Pronouns: Him/him (because I'm him)
-- ⚡ Fun fact: I'm not human
+- ⚡ Fun fact: I'm human
