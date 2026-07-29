@@ -1,7 +1,34 @@
-- 👋 Hi, I’m @CodingLordThe7th
-- 👀 I’m interested in breathing
-- 🌱 I’m currently learning several different coding languages
-- 💞️ I’m looking to collaborate on my current CVShield project
-- 📫 How to reach me: You can't
-- 😄 Pronouns: Him/him (because I'm him)
-- ⚡ Fun fact: I'm human
+# Hi, I'm Sanjeet 👋
+
+I'm a high school student and aspiring software engineer with a passion for building projects that combine programming, engineering, and problem-solving.
+
+## 💻 What I'm Working On
+
+* Developing **CVShield**, a computer vision project
+* Creating games and simulations with **Pygame**
+* Designing **3D models in Fusion 360**
+* Exploring robotics, automation, and AI
+
+## 🛠️ Technologies
+
+* **Languages:** Python, Java, HTML, CSS
+* **Libraries & Frameworks:** Pygame, Tkinter, Flask
+* **Tools:** Git, GitHub, Fusion 360, VS Code
+
+## 🌱 Currently Learning
+
+* Data structures and algorithms
+* Artificial intelligence
+* Advanced Java
+* Computer vision
+
+## 📂 Featured Projects
+
+* CVShield
+* Robotics competition projects
+* Python games and simulations
+* 3D design and printing projects
+
+## 📫 Contact
+
+Feel free to connect through GitHub or LinkedIn.
