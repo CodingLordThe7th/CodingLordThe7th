@@ -22,13 +22,24 @@ I'm a high school student and aspiring software engineer with a passion for buil
 * Advanced Java
 * Computer vision
 
-## 📂 Featured Projects
+## Pinned Repositories
 
-* CVShield
-* Robotics competition projects
-* Python games and simulations
-* 3D design and printing projects
+### CycleSavvy
+
+A full-stack cycling platform that integrates HTML, CSS, JavaScript, Supabase, and Leaflet to provide ride tracking, route visualization, and data management. This project represents my largest and most comprehensive software project to date, combining frontend development, backend services, interactive mapping, and database integration into a single application.
+
+### NASA Museum
+
+An interactive virtual museum built with Pygame that recreates the experience of exploring NASA exhibits through a custom 2.5D rendering system. By extending Pygame beyond its traditional 2D capabilities, the project creates the visual depth of a three-dimensional environment while remaining entirely within the Pygame framework.
+
+### From Midterms to Millions
+
+A text-based stock market simulation developed entirely in Python. The project emphasizes object-oriented programming, game logic, and financial decision-making, demonstrating how a complex and engaging experience can be created without relying on graphical interfaces.
+
+### CVShield
+
+A desktop productivity application built with Tkinter that encourages healthier screen habits through a customizable implementation of the 20:20:20 rule. Users can configure both focus and break intervals, after which the application displays a temporary full-screen break window to encourage stepping away from the computer. The project emphasizes user customization, productivity, and digital wellness through a simple, distraction-free interface.
 
 ## 📫 Contact
 
-Feel free to connect through GitHub or LinkedIn.
+Feel free to connect through GitHub or Email.
