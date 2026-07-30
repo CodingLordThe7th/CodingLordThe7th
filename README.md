@@ -1,4 +1,4 @@
-# Hi, I'm Sanjeet
+# I'm Sanjeet
 
 I'm a high school developer who enjoys building ambitious projects and exploring new technologies. This GitHub is a collection of the software I've built and the skills I've developed along the way.
 
@@ -11,9 +11,11 @@ I'm a high school developer who enjoys building ambitious projects and exploring
 
 ## Technologies
 
-* **Languages:** Python, Java, HTML, CSS
-* **Libraries & Frameworks:** Pygame, Tkinter, Flask
-* **Tools:** Git, GitHub, Fusion 360, VS Code
+* **Languages:** Python, Java, JavaScript, HTML, CSS
+* **Libraries & Frameworks:** Pygame, Tkinter, Flask, Leaflet
+* **Databases & Services:** Supabase
+* **CAD & Engineering:** Fusion 360
+* **Developer Tools:** Git, GitHub, VS Code, BlueJ
 
 ## Currently Learning
 
